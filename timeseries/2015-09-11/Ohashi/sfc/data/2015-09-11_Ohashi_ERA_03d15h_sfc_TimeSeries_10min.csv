@@ -1,4 +1,4 @@
-﻿Time,Temperature [°C],Mixing Ratio [kg/kg],Vapor Pressure [hPa],Wind Speed [m/s],Wind Direction [°],u [m/s],v [m/s],Surface Pressure [hPa],Sea Level Pressure [hPa],Skin Temperature [°C],Top Soil Layler Temperature [°C],Rainfall [mm],Cloud Water [kg/m^2]
+﻿Time,Temperature [°C],Mixing Ratio [kg/kg],Vapor Pressure [hPa],Wind Speed [m/s],Wind Direction [°],u [m/s],v [m/s],Surface Pressure [hPa],Sea Level Pressure [hPa],Skin Temperature [°C],Top Soil Layer Temperature [°C],Rainfall [mm],Cloud Water [kg/m^2]
 2015-09-11 00:10:00,21.75097,0.01411,22.30223,0.65138,185.17909,0.0588,0.64872,1005.6647656,1007.8581841,21.60302,22.85287,0.0,0.0
 2015-09-11 00:20:00,21.99597,0.01407,22.23824,0.78247,181.09706,0.01498,0.78233,1005.5667188,1007.758154,22.25167,22.8453,0.0,0.34644
 2015-09-11 00:30:00,22.06161,0.01403,22.17881,1.07918,204.53051,0.44805,0.98177,1005.6752344,1007.8664713,22.30795,22.84686,0.03474,1.52857
